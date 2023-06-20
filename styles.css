@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+
+body {
+  background-image: url(./img/fondo.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.img {
+  display: inline-block;
+  height: 70px;
+  border-radius: 100%;
+}
+
+nav {
+  display: flex;
+  background-color: black;
+  justify-content: space-between;
+}
+
+.navlink {
+  margin: 10px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+  justify-content: space-between;
+  font-family: "Oswald", sans-serif;
+  font-size: 20px;
+}
+
+p {
+  font-family: "Viking Squad", sans-serif;
+  display: flex;
+  color: #973132;
+  text-align: center;
+  align-items: center;
+  font-size: 40px;
+}
+
+.marca {
+  font-family: "Viking Squad", sans-serif;
+  display: flex;
+  color: #973132;
+  text-align: center;
+  align-items: center;
+  font-size: 40px;
+}
+
+a:link {
+  color: grey;
+  text-decoration: none;
+}
+a:visited {
+  color: #973132;
+  text-decoration: none;
+}
+
+a:hover {
+  color: yellow;
+  cursor: pointer;
+}
+
+ul {
+  display: flex;
+  background-color: black;
+  justify-content: space-between;
+}
