@@ -35,14 +35,14 @@ nav {
   font-size: 20px;
 }
 
-p {
+/* p {
   font-family: "Viking Squad", sans-serif;
   display: flex;
   color: #973132;
   text-align: center;
   align-items: center;
   font-size: 40px;
-}
+} */
 
 .marca {
   font-family: "Viking Squad", sans-serif;
@@ -67,8 +67,8 @@ a:hover {
   cursor: pointer;
 }
 
-ul {
+/* ul {
   display: flex;
   background-color: black;
   justify-content: space-between;
-}
+} */
